@@ -14,6 +14,7 @@ This project is at it is initial stage but will be furthur improved.
 However, the project is still not vere precise in defining the health status of the chicken and more data need to be used. 
 
 Improvements:
+
 •	Increase the number of data used 
 
 •	Examine more attributes 
